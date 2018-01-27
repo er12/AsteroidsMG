@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Capture.PNG</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/asteroid.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/AsteroidLogo.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/AsteroidLogo2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/botonAtras1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/botonAtras2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/bullet.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/coin.wav</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/coinImagen.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/corazon.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Disparador.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/DisparadorMINI.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/escudo.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/explode.wav</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/explosion.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/fondoJuego.jpg</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/FondoNaves.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/FrameScore.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/gameover.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Instrucciones.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Laser.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/logo.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/MiniAsteroid.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/nave.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/NoBuy.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/overSound.wav</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/parallax.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/parallax2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/pasado.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Perseguidor.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/PerseguidorMINI.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/playershoot.wav</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/powerpad.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/seleccion.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/ship2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/ship3.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/SuperAsteroide.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/SuperAsteroidemini.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/theme.mp3</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/wallpaper.jpg</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/wallpaper2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Fondos Niveles/FondoMenu1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Fondos Niveles/FondoMenu2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Fondos Niveles/fondoMenu3.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Fondos Niveles/FondoMenu4.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton10.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton3.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton4.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton5.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton6.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton7.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton8.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Buttons/boton9.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/BalasRapidas1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/BalasRapidas2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/BalasRapidas3.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/bomb1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/bomb2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/Brillohhh.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/CajaBalas1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/CajaBalas2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/CajaBalas3.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/cajaEscudo1.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/CajaEscudo2.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/cajaEscudo3.png</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/Tienda/wallpaperTienda.jpg</File>
+    <File>C:/Users/teto/source/repos/AsteroidsMG/AsteroidsMG/Content/font1.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
